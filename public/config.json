@@ -1,0 +1,27 @@
+{
+  "shopName": "705 Cleaners",
+  "tagline": "Dry cleaning and laundry on Church Avenue, Kensington",
+  "phone": "(718) 438-7806",
+  "address": "705 Church Ave, Brooklyn, NY 11218",
+  "hours": "Mon–Sat 8 AM – 6 PM · Closed Sun",
+  "photoUrl": "hero.jpg",
+  "services": [
+    {
+      "name": "Dry cleaning",
+      "description": "Professional dry cleaning for suits, dresses, and everyday garments."
+    },
+    {
+      "name": "Laundry & press",
+      "description": "Wash, dry, and press service when you need clothes back ready to wear."
+    },
+    {
+      "name": "Alterations",
+      "description": "Hems, zippers, and repairs. Call or stop by for a quote."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "705-cleaners-kensington",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
